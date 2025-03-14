@@ -1,0 +1,8 @@
+*.mp4
+__pycache__/
+*.pyc
+*.pyo
+*.keras
+*.npy
+*.DS_Store
+*.pkl
