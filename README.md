@@ -7,7 +7,8 @@ Extracting the MV from echocardiographic footage is a fundamental step in develo
 ## Objective
 The dataset comprises 65 training videos, each containing three manually annotated frames marking the MV, along with a bounding box for localization. The test dataset includes 20 videos, where segmentation must be performed on every frame.
 
-https://github.com/user-attachments/assets/2988e238-58e4-466e-a3f7-1b0409b4b178
+### Training Videos:
+![TrainVideo](https://github.com/user-attachments/assets/11f9d5fc-f0c7-40a6-8104-8d100eb35c5b)
 
 ## Data Processing
 After resizing the Videos the Training data is Augmented and loaded into a Dataloader
