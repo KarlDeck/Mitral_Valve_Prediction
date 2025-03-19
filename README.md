@@ -57,4 +57,4 @@ The results of the fully trained model used on the test set can be seen below. T
 ![output_video_3-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f4cc9678-d103-4f6b-8e21-5ea788d0dc2d)
 
 ## Acknowledgments
-This Project was done together with [@Nibr1609 (Niklas Britz)](https://github.com/nibr1609)
+This Project was done together with [Niklas Britz (@Nibr1609)](https://github.com/nibr1609)
